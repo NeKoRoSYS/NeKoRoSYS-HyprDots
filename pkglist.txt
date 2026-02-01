@@ -1,4 +1,3 @@
-base
 dolphin
 fastfetch
 firefox
