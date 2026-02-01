@@ -1,5 +1,5 @@
-# NeKoRoSYS-s-Arch-Linux-Rice
-Based on mkhmtolzha's rice.
+# NeKoRoSYS-Arch-Linux-Rice
+Based on mkhmtolzhas' rice.
 
 ## Notes
 
