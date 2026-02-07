@@ -1,12 +1,11 @@
-#!/bin/bash
+ #!/bin/bash
 
 # Assuming 'kitty' as the terminal; adjust if using alacritty/foot
 
 
 # 1. Top Left
 
-kitty --hold -o font_size=10 --class fastfetch-grid -e fastfetch & #1080p
-#kitty --hold -o font_size=8 --class fastfetch-grid -e fastfetch & #720p
+kitty --hold -o font_size=10 --class fastfetch-grid -e fastfetch &
 sleep 0.3
 
 
@@ -32,5 +31,4 @@ hyprctl dispatch focuswindow class:clock-grid
 
 hyprctl dispatch layoutmsg presel d
 
-kitty -o font_size=7 --class btop-grid -e btop & #1080p 
-#kitty -o font_size=6 --class btop-grid -e btop & #720p
+kitty -o font_size=7 --class btop-grid -e btop & 
