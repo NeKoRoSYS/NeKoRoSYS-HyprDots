@@ -17,7 +17,7 @@ Based on [mkhmtolzhas' rice](https://github.com/mkhmtolzhas/Invincible-Dots).
   - Toggle Floating Window
   - Pseudo-floating/organized windows
   - Change tile placement
-- **Copy and Pasting**
+- **Copying and Pasting**
   - Screenshot support via `grim`.
   - Clipboard history via `cliphist`.
 - **Advanced Wallpaper Handling**
