@@ -13,6 +13,7 @@ Based on [mkhmtolzhas' rice](https://github.com/mkhmtolzhas/Invincible-Dots). I 
 | [🚀 Features](#features) |
 | [🔨 Skins and Layouts](#skins-and-layouts) |
 | [📝 Notes](#notes) |
+| [🤔 Optional](#optional) |
 <br>
 
 > [!CAUTION]
