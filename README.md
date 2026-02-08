@@ -159,4 +159,4 @@ Mostly personal notes just in case I switch over to another PC. Do NOT copy my G
       }
     ]
     ```
-  - `wpctl set-default microphoneID`
+  - `wpctl set-default yourNoiceCancelledID` (find in `wpctl status`)
