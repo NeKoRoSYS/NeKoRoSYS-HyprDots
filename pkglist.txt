@@ -16,6 +16,8 @@ gamemode
 git
 grim
 gst-plugin-pipewire
+hwinfo
+hypremoji
 hypridle
 hyprland
 hyprlock
