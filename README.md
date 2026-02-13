@@ -76,29 +76,33 @@ NeKoRoDOTS focuses on simplicity and modularity.
 - **Copying and Pasting**
   - Screenshot support via `hyprshot` .
   - Clipboard history via `cliphist`.
+ 
+- **Notificications Handling**
+  - Has a dedicated notification center with customizable buttons and options.
 
-- **Advanced Wallpaper Handling**
-  - Supports both online (yes, online.) and offline image (via `swww`) and video (via `mpvpaper`) formats.
-    - `mpvpaper` automatically stops if an app is on fullscreen mode to save CPU, RAM, or GPU space.
-    - Paste image or video links with valid file extensions in the wofi prompt and the download will automatically be processed, saved, and set as your new wallpaper.
-  - Border colors and UI elements have dynamic color schemes.
-
-- **Select Waybar Skins**
-  - Legacy
-    - Sleek and straightforward design.
-    - Built to feel like a Windows taskbar.
-  - mkhmtcore
-    - Modern and minimalistic.
-    - Beautiful design.
-  - And the best part? You can add your own!
-
-- **Select Hyprlock Layouts**
-  - Legacy
-    - Simple and functional.
-    - Credits to [justinmdickey](https://github.com/justinmdickey/publicdots/blob/main/.config/hypr/hyprlock.conf) for the layout.
-  - mkhmtcore
-    - More minimal.
-  - And the best part? You can add your own!
+- **Advanced Customization**
+  - **Dark and Light Mode**
+  - **Wallpaper Handling**
+    - Supports both online (yes, online.) and offline image (via `swww`) and video (via `mpvpaper`) formats.
+      - `mpvpaper` automatically stops if an app is on fullscreen mode to save CPU, RAM, or GPU space.
+      - Paste image or video links with valid file extensions in the wofi prompt and the download will automatically be processed, saved, and set as your new wallpaper.
+    - Border colors and UI elements have dynamic color schemes.
+  - **Select Waybar Skins**
+    - Legacy
+      - Sleek and straightforward design.
+      - Built to feel like a Windows taskbar.
+    - mkhmtcore
+      - Modern and minimalistic.
+      - Beautiful design.
+  - **Select Hyprlock Layouts**
+    - Legacy
+      - Simple and functional.
+      - Credits to [justinmdickey](https://github.com/justinmdickey/publicdots/blob/main/.config/hypr/hyprlock.conf) for the layout.
+    - mkhmtcore
+      - More minimal.
+  - **Select SwayNC Styles**
+    - Legacy
+      - Matches the mkhmtcore waybar skin in aesthetics.
 <br>
 
 ![Screenshot](image.png) 
