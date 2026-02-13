@@ -113,6 +113,10 @@ NeKoRoDOTS focuses on simplicity and modularity.
 <br>
 <br>
 <br>
+![Screenshot](image-1.png) 
+<br>
+<br>
+<br>
 ![Screenshot](image-2.png) 
 <br>
 <br>
