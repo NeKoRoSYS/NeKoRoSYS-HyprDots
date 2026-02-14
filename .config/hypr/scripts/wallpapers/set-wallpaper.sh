@@ -124,4 +124,4 @@ case "$(echo "$EXTENSION" | tr '[:upper:]' '[:lower:]')" in
 esac
 
 echo "Wallpaper update complete."
-makenotif wallpaper "folder-pictures" "Wallpaper" "Changed wallpaper to $SELECTED_FILE" "true" ""
+makenotif customize "folder-pictures" "Wallpaper" "Changed wallpaper to $SELECTED_FILE" "true" ""
