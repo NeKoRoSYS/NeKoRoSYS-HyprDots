@@ -3,6 +3,7 @@ base
 base-devel
 bluez
 bluez-utils
+blueman
 btop
 cava
 cjson
