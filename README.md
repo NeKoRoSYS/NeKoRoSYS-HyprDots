@@ -6,8 +6,7 @@
 > A big update is coming soon:
 > - **Legacy** styling will receive its finishing touches.
 >   - The notification panel will have several additions to its buttons grid and a few adjustments to the coloring.
-> - wofi will be replaced by rofi.
->   - Better thumbnail preview support for selecting wallpapers.
+> - Better thumbnail preview support for selecting wallpapers.
 > - mako will be removed from the repo as SwayNC has been proven to be more in-line with my vision for this project.
 
 # NeKoRoDOTS 
