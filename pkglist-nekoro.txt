@@ -68,6 +68,7 @@ nvidia-580xx-dkms
 nvidia-580xx-settings
 nvidia-prime
 openssh
+optimus-manager-qt
 os-prober
 pacman-contrib
 pavucontrol
