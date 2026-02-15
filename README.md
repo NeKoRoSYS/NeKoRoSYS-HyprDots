@@ -60,6 +60,8 @@ NeKoRoDOTS focuses on simplicity and modularity.
 
 ### Roadmap
 
+NeKoRoDOTS is currently being developed by one person (*cough* [Contribution](#contribution) *cough*) and is constantly under rigorous quality assurance for improvement. We always aim to keep a "no-break" promise for every update so that you can safely update to later versions without expecting any breakages.
+
 | 📋 **TODO** | **STATUS** |
 | :---: | :---: |
 | Improve base "legacy" theme | ✅ |
@@ -68,6 +70,7 @@ NeKoRoDOTS focuses on simplicity and modularity.
 | Optimizations | ⏳ |
 | Color Handling | ⏳ |
 | Dmenu Overhaul | ⏳ |
+| Support for other distros | ⏳ |
 <br>
 
 - **One-tap Installer Script**
