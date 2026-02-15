@@ -71,7 +71,6 @@ NeKoRoDOTS is currently being developed by one person (*cough* [Contribution](#c
 | Color Handling | ⏳ |
 | Dmenu Overhaul | ⏳ |
 | Support for other distros | ⏳ |
-<br>
 
 - **One-tap Installer Script**
   - Use `git clone https://github.com/NeKoRoSYS/NeKoRoSYS-NeKoRoDOTS`
